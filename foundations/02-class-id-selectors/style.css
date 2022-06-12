@@ -1,8 +1,9 @@
-/* style css */
+/* all odd elements */
 
-.odd-elements { 
-    color: #f27995;
-}
+.odd {
+    background-color: #f6bac8;
+    font-family: verdana, DejaVu sans, sans-serif;
+ }
 
 
 
